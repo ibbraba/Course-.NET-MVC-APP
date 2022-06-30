@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\33651\Desktop\.NET TUTO\TutorialYT\TutorialYTWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/33651/Desktop/.NET TUTO/TutorialYT/TutorialYTWeb/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/33651/Desktop/.NET TUTO/TutorialYT/TutorialYTWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
