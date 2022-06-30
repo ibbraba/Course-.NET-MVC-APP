@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using TutorialYTWeb.Data;
+using TutorialYTWeb.Models;
 
 namespace TutorialYTWeb.Controllers
 {
@@ -14,11 +15,11 @@ namespace TutorialYTWeb.Controllers
 
         public IActionResult Index()
         {
-            var ObjCategoryList = _db.Categories.ToList();
+            IEnumerable<Category> ObjCategoryList = _db.Categories.ToList();
 
 
 
-            return View();
+            return View(ObjCategoryList);
         }
     }
 }
